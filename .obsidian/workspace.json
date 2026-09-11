@@ -11,10 +11,14 @@
             "id": "c640acb7b0007aa6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "school-learning/Computer-Network-Notes-master/Computer-Network-Notes-master/计算机网络第3章（数据链路层）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "计算机网络第3章（数据链路层）"
             }
           }
         ]
@@ -194,6 +198,7 @@
   },
   "active": "c640acb7b0007aa6",
   "lastOpenFiles": [
+    "school-learning/Computer-Network-Notes-master/Computer-Network-Notes-master/计算机网络第1章（概述）知识图谱.md",
     "jh-note/README.md",
     "school-learning/Computer-Network-Notes-master/Computer-Network-Notes-master/习题课/计算机网络第二章习题课.assets/image-20201010213423319.png",
     "school-learning/Computer-Network-Notes-master/Computer-Network-Notes-master/习题课/计算机网络第二章习题课.assets/image-20201010213815232.png",
@@ -233,7 +238,6 @@
     "school-learning/Computer-Network-Notes-master/Computer-Network-Notes-master/计算机网络第2章（物理层）.md",
     "school-learning/Computer-Network-Notes-master/Computer-Network-Notes-master/README.md",
     "school-learning/Computer-Network-Notes-master/Computer-Network-Notes-master/计算机网络第1章（概述）.md",
-    "school-learning/Computer-Network-Notes-master/Computer-Network-Notes-master/计算机网络第1章（概述）知识图谱.md",
     "school-learning/软件工程/软件工程.md",
     "school-learning/README.md",
     "school-learning/README.en.md",
